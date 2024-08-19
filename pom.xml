@@ -54,7 +54,7 @@
             <!-- this works -->
             <!--version>3.0.3</version-->
             <!-- this doesn't work works -->
-            <version>3.0.3.redhat-00001</version>
+            <version>3.0.3.redhat-00002</version>
         </dependency>
 
 
